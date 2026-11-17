@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
